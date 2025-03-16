@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: - Singularity -
+title: -Singularity-
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
