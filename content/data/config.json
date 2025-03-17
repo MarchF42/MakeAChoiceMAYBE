@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "关于",
-                "url": "/info"
+                "url": "/info",
+                "showIcon": true
             },
             {
                 "type": "Link",
