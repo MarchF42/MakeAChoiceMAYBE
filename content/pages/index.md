@@ -57,7 +57,7 @@ sections:
           - pt-28
           - pb-28
           - pl-8
-          - pr-4
+          - pr-8
         textAlign: left
         borderRadius: none
   - type: FeaturedPostsSection
