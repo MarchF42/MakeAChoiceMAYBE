@@ -62,6 +62,7 @@ sections:
         borderRadius: none
         margin:
           - ml-9
+          - mr-9
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
