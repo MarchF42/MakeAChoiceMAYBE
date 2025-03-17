@@ -42,7 +42,16 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://b23.tv/z1UH1rw",
+                "icon": "vimeo",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
