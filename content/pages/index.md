@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Singularity .
+    title: Singularity.
     subtitle: '- MarchF -'
     styles:
       self:
@@ -56,12 +56,12 @@ sections:
         padding:
           - pt-28
           - pb-28
-          - pl-8
-          - pr-8
+          - pl-0
+          - pr-0
         textAlign: left
         borderRadius: none
         margin:
-          - ml-32
-          - mr-32
+          - ml-20
+          - mr-20
           - mt-44
 ---

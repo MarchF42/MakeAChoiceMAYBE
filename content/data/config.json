@@ -5,39 +5,51 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "NOWHERE",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
+                "label": "关于",
+                "url": "/info",
+                "showIcon": false,
+                "icon": "chevronRight",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Atrium",
+                "altText": "",
+                "url": "atrium.html",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Arrival Theatre",
+                "altText": "",
+                "url": "arrivaltheatre.html",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "B站",
+                "altText": "",
+                "url": "/https://b23.tv/z1UH1rw",
+                "icon": "youtube",
+                "elementId": ""
             }
         ],
         "styles": {
