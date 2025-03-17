@@ -25,7 +25,7 @@
                 "type": "Link",
                 "label": "Atrium",
                 "altText": "",
-                "url": "atrium.html",
+                "url": "/atrium.html",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
