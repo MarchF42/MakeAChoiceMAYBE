@@ -61,7 +61,7 @@ sections:
         textAlign: left
         borderRadius: none
         margin:
-          - ml-32
+          - ml-28
           - mr-32
           - mt-44
 ---
