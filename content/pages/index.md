@@ -56,7 +56,7 @@ sections:
         padding:
           - pt-28
           - pb-28
-          - pl-8
+          - pl-0
           - pr-8
         textAlign: left
         borderRadius: none
