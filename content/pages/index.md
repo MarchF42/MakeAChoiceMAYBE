@@ -62,5 +62,5 @@ sections:
         borderRadius: none
         margin:
           - ml-16
-          - mr-9
+          - mr-16
 ---
