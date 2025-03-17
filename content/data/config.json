@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "关于",
                 "url": "/info",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             },
             {
                 "type": "Link",
