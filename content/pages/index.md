@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Singularity .
+    title: Singularity.
     subtitle: '- MarchF -'
     styles:
       self:
