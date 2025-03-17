@@ -57,7 +57,7 @@ sections:
           - pt-28
           - pb-28
           - pl-0
-          - pr-8
+          - pr-0
         textAlign: left
         borderRadius: none
         margin:
