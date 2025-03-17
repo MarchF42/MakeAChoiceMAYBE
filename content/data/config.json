@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "关于",
                 "url": "/info",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "chevronRight",
                 "iconPosition": "left"
             },
