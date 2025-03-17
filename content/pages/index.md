@@ -62,6 +62,6 @@ sections:
         borderRadius: none
         margin:
           - ml-28
-          - mr-28
+          - mr-20
           - mt-44
 ---
