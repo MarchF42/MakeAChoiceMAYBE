@@ -60,6 +60,8 @@ sections:
           - pr-8
         textAlign: left
         borderRadius: none
+        margin:
+          - ml-9
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
