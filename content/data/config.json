@@ -13,7 +13,7 @@
                 "label": "关于",
                 "url": "/info",
                 "showIcon": true,
-                "icon": "cart",
+                "icon": "playCircle",
                 "iconPosition": "left"
             },
             {
