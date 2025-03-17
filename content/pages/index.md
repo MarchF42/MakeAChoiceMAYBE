@@ -36,13 +36,13 @@ sections:
   - type: TextSection
     title: ''
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      # 夏日永不终结
+
+
+      ######
+      *因为明年将至、而之后还有后年、再往后甚至出现了大后年，直到在无穷发展和计划之中连明天都变成一个渺小的数字，我们展望时仍然会发现夏日永不终结。今年永远是最热的夏天。*
+
     colors: colors-f
     variant: variant-a
     elementId: ''
