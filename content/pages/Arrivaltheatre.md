@@ -26,7 +26,4 @@ colors: colors-a
 
 url: /arrivaltheatre
 
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 ---
