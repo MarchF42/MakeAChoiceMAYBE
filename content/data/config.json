@@ -30,7 +30,7 @@
             {
                 "type": "Link",
                 "label": "Arrival Theatre",
-                "url": "/pages/arrivaltheatre",
+                "url": "/content/pages/arrivaltheatre",
             }
         ],
         "socialLinks": [
