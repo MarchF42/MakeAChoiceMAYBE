@@ -11,10 +11,7 @@
             {
                 "type": "Link",
                 "label": "关于",
-                "url": "/info",
-                "showIcon": false,
-                "icon": "chevronRight",
-                "iconPosition": "left"
+                "url": "/info"
             },
             {
                 "type": "Link",
@@ -25,31 +22,27 @@
                 "type": "Link",
                 "label": "Atrium",
                 "altText": "",
-                "url": "atrium.html",
+                "url": "/atrium/",
                 "showIcon": false,
                 "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
+                "iconPosition": "right"
             },
             {
                 "type": "Link",
                 "label": "Arrival Theatre",
                 "altText": "",
-                "url": "/Arrivaltheatre",
+                "url": "/Arrivaltheatre/",
                 "showIcon": false,
                 "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
+                "iconPosition": "right"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
                 "label": "B站",
-                "altText": "",
                 "url": "https://b23.tv/z1UH1rw",
-                "icon": "youtube",
-                "elementId": ""
+                "icon": "youtube"
             }
         ],
         "styles": {
