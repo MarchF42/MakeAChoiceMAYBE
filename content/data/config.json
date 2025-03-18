@@ -22,15 +22,12 @@
                 "type": "Link",
                 "label": "Atrium",
                 "altText": "",
-                "url": "/atrium",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right"
+                "url": "/atrium"
             },
             {
                 "type": "Link",
                 "label": "Arrival Theatre",
-                "url": "/content/pages/arrivaltheatre",
+                "url": "/content/pages/arrivaltheatre"
             }
         ],
         "socialLinks": [
