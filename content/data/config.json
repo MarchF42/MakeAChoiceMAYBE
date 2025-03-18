@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Atrium",
                 "altText": "",
-                "url": "/atrium/",
+                "url": "/atrium",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right"
@@ -31,7 +31,7 @@
                 "type": "Link",
                 "label": "Arrival Theatre",
                 "altText": "",
-                "url": "/Arrivaltheatre/",
+                "url": "/Arrivaltheatre",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right"
