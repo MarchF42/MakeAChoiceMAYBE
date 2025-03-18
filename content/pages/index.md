@@ -59,7 +59,7 @@ sections:
           - mt-44
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_1242.png
+  url: /images/IMG_1263.png
   backgroundSize: cover
   backgroundPosition: right-bottom
   backgroundRepeat: no-repeat
