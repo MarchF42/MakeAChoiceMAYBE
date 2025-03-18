@@ -2,13 +2,6 @@
 type: PageLayout
 title: '- Singularity -'
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/IMG_1242.png
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
@@ -64,4 +57,11 @@ sections:
           - ml-20
           - mr-20
           - mt-44
+backgroundImage:
+  type: BackgroundImage
+  url: /images/IMG_1263.png
+  backgroundSize: cover
+  backgroundPosition: right-bottom
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
