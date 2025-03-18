@@ -30,11 +30,7 @@
             {
                 "type": "Link",
                 "label": "Arrival Theatre",
-                "altText": "",
-                "url": "/pages/Arrivaltheatre",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right"
+                "url": "/pages/arrivaltheatre",
             }
         ],
         "socialLinks": [
