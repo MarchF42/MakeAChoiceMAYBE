@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,18 +13,17 @@
 
         
 <section>
-			<img src="public/img/IMG_1261.jpng" id="bj"/>
-			<img src="public/img/IMG_1258.png" id="name"/>
-			<img src="public/img/IMG_1259.png" id="3"/>
-			<img src="public/img/IMG_1260.png" id="seat"/>
-			<h2 id="text">Moon Lint</h2>
+			<img src="IMG_1261.jpeg" id="bj"/>
+			<img src="IMG_1258.png" id="name"/>
+			<img src="IMG_1259.png" id="three"/>
+			<img src="IMG_1260.png" id="seat"/>
 		</section>
 
     <script>
-        let bg = document.getElementById('bg');
-        let moon = document.getElementById('moon');
-        let mountain = document.getElementById('mountain');
-        let road = document.getElementById('road');
+        let bj = document.getElementById('bj');
+        let name = document.getElementById('name');
+        let three = document.getElementById('three');
+        let seat= document.getElementById('seat');
         let text = document.getElementById('text');
         window.addEventListener('scroll', function () {
             // window.scrollY(可读，双精度类型)：返回当前从原点垂直滚动文档的像素数
@@ -37,7 +37,7 @@
                     的部分会被隐藏。
                 * 0.5可以不设置，不影响效果。可能是为了四舍五入？
             */
-            bg.style.top = value + 0.5 + 'px';
+            bj.style.top = value + 1 + 'px';
 
             /*
                 随着页面向下滚动，月亮往左上方移动
@@ -46,9 +46,9 @@
                     的部分会被隐藏。
                 * 搞不明白为什么要+0.5
             */
-            moon.style.left = -value + 0.5 + 'px';
-            mountain.style.top = -value * 0.15 + 'px';
-            road.style.top = value * 0.15 + 'px';
+            name.style.left = value + 2 + 'px';
+            three.style.top = value * 0.15 + 'px';
+            seat.style.top = value * 0.15 + 'px';
             text.style.top = value * 1 + 'px';
         })
     </script>
@@ -56,4 +56,3 @@
 </body>
 
 </html>
-
