@@ -27,7 +27,7 @@
             {
                 "type": "Link",
                 "label": "Arrival Theatre",
-                "url": "/arrivaltheatre"
+                "url": "content/pages/arrivaltheatre"
             }
         ],
         "socialLinks": [
